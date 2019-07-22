@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  Arquero_Test.cpp
+c:\users\nhern\onedrive\documentos\tacataca\programacion\codigos\arquero_test\arquero_test\arquero_test.cpp(54): warning C4477: 'printf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'unsigned __int64'
+c:\users\nhern\onedrive\documentos\tacataca\programacion\codigos\arquero_test\arquero_test\arquero_test.cpp(171): warning C4477: 'printf' : la cadena de formato '%zi' requiere un argumento de tipo 'unsigned __int64', pero el argumento variádico 1 tiene el tipo 'int'
+  c:\users\nhern\onedrive\documentos\tacataca\programacion\codigos\arquero_test\arquero_test\arquero_test.cpp(171): note: considere el uso de ' %i' en la cadena de formato
+  c:\users\nhern\onedrive\documentos\tacataca\programacion\codigos\arquero_test\arquero_test\arquero_test.cpp(171): note: considere el uso de ' %I32i' en la cadena de formato
+c:\users\nhern\onedrive\documentos\tacataca\programacion\codigos\arquero_test\arquero_test\arquero_test.cpp(226): warning C4477: 'printf' : la cadena de formato '%zi' requiere un argumento de tipo 'unsigned __int64', pero el argumento variádico 1 tiene el tipo 'int'
+  c:\users\nhern\onedrive\documentos\tacataca\programacion\codigos\arquero_test\arquero_test\arquero_test.cpp(226): note: considere el uso de ' %i' en la cadena de formato
+  c:\users\nhern\onedrive\documentos\tacataca\programacion\codigos\arquero_test\arquero_test\arquero_test.cpp(226): note: considere el uso de ' %I32i' en la cadena de formato
+  Arquero_Test.vcxproj -> C:\Users\nhern\OneDrive\Documentos\TacaTaca\Programacion\Codigos\Arquero_Test\x64\Debug\Arquero_Test.exe
