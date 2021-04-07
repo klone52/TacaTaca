@@ -4,3 +4,12 @@ Este trabajo aborda los desafíos de diseñar e implementar un sistema electrome
 <p align="center">
 <img src="https://github.com/klone52/TacaTaca/blob/master/fotos/SistemaCompleto.PNG" width="400">
 </p>
+
+
+<p align="center">
+<img src="https://github.com/klone52/TacaTaca/blob/master/fotos/Items2.png" width="500">
+<img src="https://github.com/klone52/TacaTaca/blob/master/fotos/TacaV1_2.png" width="400">
+</p>
+
+
+## Sistema Electrónico ##
